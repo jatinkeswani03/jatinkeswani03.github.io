@@ -32,6 +32,19 @@
 
 	// Forms.
 
+//	$('.work').waypoint(function() {
+////	}, {
+//		offset: '75%'
+////	$('.download').waypoint(function() {
+//		$('.download .btn').addClass('animated tada');
+//	}, {
+//		offset: '75%'
+//	});
+
+	// Fancybox
+	//$('.work-box').fancybox();
+
+
 		// Hack: Activate non-input submits.
 			$('form').on('click', '.submit', function(event) {
 
